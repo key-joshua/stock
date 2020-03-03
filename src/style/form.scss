@@ -1,0 +1,52 @@
+.container{
+	min-height: 100%;
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+	font-family:georgia,garamond,serif;
+	font-size:16px;
+	font-style:italic;
+}
+
+.loginBtn{
+	height: 30px;
+	color: #ffffff;
+	background: linear-gradient(135deg, #fdfcfb 0%, #423107 100%);
+	border: 0;
+	margin-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
+.form{
+	padding: 05px;
+	margin: auto;
+	margin-top: 15px;
+	width: 30%;
+	opacity: 0.95;
+	text-align: center;
+	color: #ffffff;
+	background: #423107;
+	font-size: 18px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
+.register input{
+
+  background: transparent;
+  background: #fff;
+  color: #000;
+  width: 80%;
+  height: 10px;
+  padding: 05px;
+  margin-top: 15px;
+  text-align:center;
+}
+
+.register h5 span{
+	color: gray;
+	font-size: 12px;
+}
